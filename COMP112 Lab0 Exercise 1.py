@@ -22,3 +22,6 @@ SyntaxError: invalid syntax
 <class 'int'>
 >>> float((8+2)*6-1)
 59.0
+>>> 
+=============== RESTART: /Users/xuziqin/Documents/Hello_world.py ===============
+Hello World! My name is <Chloe Xu>
