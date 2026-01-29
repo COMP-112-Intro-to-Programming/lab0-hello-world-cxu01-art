@@ -1,0 +1,24 @@
+Python 3.14.2 (v3.14.2:df793163d58, Dec  5 2025, 12:18:06) [Clang 16.0.0 (clang-1600.0.26.6)] on darwin
+Enter "help" below or click "Help" above for more information.
+>>> 8-2
+6
+>>> 100*3
+300
+>>> 50 divided by 10
+SyntaxError: invalid syntax
+>>> 50 divided by 10
+SyntaxError: invalid syntax
+>>> 50/10
+5.0
+>>> 3**
+SyntaxError: invalid syntax
+>>> 3 ** 2
+9
+>>> 6+2
+8
+>>> (4+2)*6-1
+35
+>>> type((2+2)*6-1)
+<class 'int'>
+>>> float((8+2)*6-1)
+59.0
